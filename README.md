@@ -1,1 +1,1 @@
-# assignment_daily
+# repository for assignment submission
